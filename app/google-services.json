@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244791765834",
+    "project_id": "login-dbbfc",
+    "storage_bucket": "login-dbbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244791765834:android:a08122939e3cdfdbd46fb3",
+        "android_client_info": {
+          "package_name": "com.example.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244791765834-mtco54ab3eqc3456ldj49rticdo4s0jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxKQQ6IKZolGb43iJiG9NMxvekUfJy3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244791765834-mtco54ab3eqc3456ldj49rticdo4s0jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
